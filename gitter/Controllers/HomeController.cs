@@ -11,6 +11,7 @@ namespace gitter.Controllers
         public ActionResult Index()
         {
             return View();
+            //stuff
         }
 
         public ActionResult About()
